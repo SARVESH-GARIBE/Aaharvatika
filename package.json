@@ -1,0 +1,13 @@
+{
+  "name": "aaharvatika",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Aaharvatika — Mess Management Platform (monorepo root)",
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "engines": {
+    "node": ">=22"
+  }
+}
